@@ -1,6 +1,11 @@
 # SR-DICE
 is a simple dice simulator for the pen and paper RPG [Shadowrun](https://en.wikipedia.org/wiki/Shadowrun).
 
+## Installation
+```
+pip install sr-dice
+```
+
 ## Usage
 ```
 sr-dice [-h] [--hist] [--raw] num_dices
