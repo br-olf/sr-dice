@@ -44,7 +44,7 @@ if __name__ == '__main__':
     print(' {:<12}  {:}'.format('Misses:', misses))
     print()
 
-    if misses > num_dices/2.:
+    if misses >= num_dices/2.:
         if hits == 0:
             print(' CRITICAL GLITCH')
         else:
