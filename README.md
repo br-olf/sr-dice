@@ -15,5 +15,5 @@ optional arguments:
 ```
 
 ### Bugs
-Please report to brolf <at> magheute (dot) net
+Please open a ticket in the [issue tracker](https://github.com/br-olf/sr-dice/issues).
 
