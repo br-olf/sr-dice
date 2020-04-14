@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="sr-dice",
-    version="0.1",
+    version="0.2",
     license='EUPL-1.2',
     author="Brolf",
     author_email="brolf@magheute.net",
