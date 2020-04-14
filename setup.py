@@ -20,6 +20,10 @@ setuptools.setup(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: European Union Public Licence 1.2 (EUPL 1.2)",
         "Operating System :: OS Independent",
+        "Environment :: Console",
+        "Intended Audience :: End Users/Desktop",
+        "Natural Language :: English",
+        "Topic :: Games/Entertainment :: Role-Playing"
     ],
     python_requires='>=3.6',
 )
