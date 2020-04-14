@@ -13,7 +13,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/br-olf/sr-dice",
-    keywords=['dice','pen and paper','RPG','Shadowrun']
+    keywords=['dice','pen and paper','RPG','Shadowrun'],
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
